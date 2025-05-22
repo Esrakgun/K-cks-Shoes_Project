@@ -1,4 +1,4 @@
-# 👟 KickShoes – Adım Attığın Her Yerde Seninle!
+# 👟 KicksShoes – Adım Attığın Her Yerde Seninle!
 Merak uyandıran bir stil, kullanıcı dostu bir panel ve güçlü teknolojilerle tasarlanmış modern bir e-ticaret deneyimi: KickShoes.
 Bu proje yalnızca bir ürün satış platformu değil, aynı zamanda geliştirilebilir yapısıyla bir admin paneli ve kullanıcı sistemi altyapısı sunar. İster bireysel girişimciler, ister profesyonel işletmeler olsun, herkes için erişilebilir ve özelleştirilebilir bir çözüm.
 
