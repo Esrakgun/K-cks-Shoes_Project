@@ -85,7 +85,11 @@ Bu proje yalnızca bir ürün satış platformu değil, aynı zamanda geliştiri
 # 🖼️ Ekran Görüntüsü:
 📸 Projenin kullanıcı ve admin panelinden ekran görüntüsü eklenmiştir.
 
-![KickShoes Screenshot](./public/KicksShoes_project.mp4)
+
+
+https://github.com/user-attachments/assets/a829f530-53ff-4088-8047-58276000c899
+
+
 
 
 
